@@ -1,0 +1,255 @@
+{"meta":
+{"title":"乐哥在线",
+"subtitle":"关注技术和人文的自媒体博客",
+"description":"这是一本关于「伪文青」假程序员的故事，作者：乐哥(taoste)。
+也是一个聚焦于技术和人文的自媒体博客，网址：blog.choong.net 。",
+"author":"乐哥(http://choong.net)",
+"url":"http://choong.net"},
+"pages":[{"title":"为何建站 && 为何写作",
+"date":"2017-02-07T05:23:07.000Z",
+"updated":"2017-04-18T07:04:34.000Z",
+"comments":false,
+"path":"about/index.html",
+"permalink":"http://blog.choong.net/about/index.html",
+"excerpt":"",
+"text":"为何建站曾几何时，独立站长曾是一个牛逼哄哄的角色，然而现在不那么神秘了，这里不扯这些前世因果轮回。
+总之搭建乐哥在线这个网站不仅仅是为了装逼，写作是件艺术，通过写作往往能让自己的思路更清晰、更有想法，
+对于不善言辞的假程序员来讲，更是百利而无一害。你说是吧…… 为何写写作 读的书越多，你会发现知道的东西越多，
+不知道的东西就更多了，不知道远远大于知道，于是你在两者间不断碰撞、焦虑、欢喜、忧伤，产生各种思想、情感和故事，
+记录下来，就是文章。 引自《MacTalk》跨越边界 显然，这个博客是带有某种程序员感情的，如果你也是开发，那就能共振了。
+哦说错了，是研发、共鸣！ 写博客不代表不好好写代码、不好好工作，请不要纠结。本站主要作为技术笔记存档，
+内容主要涉及前端开发，含移动端，偶尔可能也会有一些碎碎念，发发感慨。如果某一篇帮助了你，请记得点个赞。 
+作为内容站，持续输出高质量的内容是件不太容易的事情，本站的任何文章，你可任意转载，但请保留原文链接。
+如有兴趣，欢迎一起码字。 关于作者80后的乐哥，目前致力于JavaScript大法，HTML/CSS是目前的乐趣。
+鸡汤一站，自娱自乐 如果您遇到麻烦或对本站有疑问，
+请在本站找到那个白色❓号并点击查看","keywords":"关于乐哥，是什么"},
+{"title":"移动互联网？",
+"date":"2017-03-18T11:56:20.000Z",
+"updated":"2017-04-18T07:04:40.000Z",
+"comments":false,
+"path":"app/index.html",
+"permalink":"http://blog.choong.net/app/index.html",
+"excerpt":"",
+"text":"憋闹了，还没有爱蒲。博客写的差不多了，
+再考虑写个移动互联网…
+.fyiguhjnwkefnmwoeih68yuih4jnkrfewdfyugbijnk.wfww3f 
+5jhyrtgve5jhytbgvef5grefvqwu6ejynhbvwer5jr5hb4gevgwh54uh3g4weab 
+eh43eg223t4whretbvfw345u36jhtbevww32q4wu5ejhtbevwgw354uhtbgevfcewg 
+擦了下键盘，这些你可以拿去当QQ密码，绝不会被盗号，不用谢！",
+"keywords":null},{"title":"Cross Fire，Are You Ready ?",
+"date":"2017-03-18T11:56:40.000Z",
+"updated":"2017-06-23T05:42:12.000Z",
+"comments":false,
+"path":"cross_fire/index.html",
+"permalink":"http://blog.choong.net/cross_fire/index.html",
+"excerpt":"",
+"text":"没有配图，请谅解。看到不是打飞机的游戏有没有觉得好污亏 ┗|｀O′|┛ 
+嗷~~，不好意思，是打枪的游戏！本想叫飞越长城，想了下还是别太高调，就想起这个文雅的名字。
+请别在意这些细节…… 
+Top1Lantern学名，蓝灯，推荐指数，五星。每月500MB高速流量，用完也不收费，只是会有限速 Lantern 
+Top2GreenVPN学名你说叫啥就是啥吧，推荐指数，五星。不限流量，注册个账号每天签到即可，pc、mobile均可使用，速度快、稳定 GreenVPN 
+Top3Host Tool学名，猴斯特吐。推荐指数，三点五。对于谷歌、非死不可等网站有效，不是全网解决方案。效果也还不错 hosts",
+"keywords":"rss，聚合阅读，阅读方式，说IT阅读"},
+{"title":"QA - 帮助那个中心...",
+"date":"2017-03-29T10:49:38.000Z",
+"updated":"2017-06-23T05:39:03.000Z",
+"comments":true,
+"path":"help/index.html",
+"permalink":"http://blog.choong.net/help/index.html",
+"excerpt":"",
+"text":"这个页面不贴配图了，说点实在的
+Q: 你这网站怎么弄的，还挺好看的啊？ 
+A: 本站是静态博客，通过hexo生成，主题是开源的不是我自己写的。
+免费使用，开源在GitHub，本站底部有它们的链接 
+Q: 为什么博客有时候打开速度很慢，一直在加载呢？ 
+A: 本站服务器在中国大陆，由于是静态网站不涉及数据库操作，理论上速度会很快。
+只是评论组件使用的Disqus服务器在墙外，物虽好但用户体验就得打折扣。不过不影响文章阅读。 
+Q: 我也想用你的主题搭个博客，不知道怎么弄？ 
+A: 先去hexo官网看看，学会用这个写作并学会使用gitpages之类的部署博客。教程谷歌一下遍地皆是。
+主题是免费的，在本站底部可找到链接，根据文档自及配置就好了。遇到问题，在本页留言即可，我会很愿意帮助你的。
+需要注意的是主题有全站https开关，在主题_config.yml文件的fullHttps处配置。
+如配置不当r某些文件就无法正确引用，加载粗来的页面会很挫。 
+Q: 你这主题，我配置了怎么运行报错啊，跑不起来啊？ 
+A: 关于使用主题出错，请先前往JSimple-issues寻找答案，说不定你遇到的问题，已经有人碰到而我也回答解决方式了。
+关于主题的任何问题，我都会在那里回复 
+Q: 上不了谷歌，翻不了墙怎么办？ 
+A: 着急吃饭的朋友请走这边穿越火线。这类问题，有两种方案可选：改hosts和使用VPN代理。
+后者又有两种方案：掏钱和免费代理。这一点看个人需求。如果用量比较狠，还是掏钱吧。 
+免费的梯子像GreenVPN、Lantern、www.ishadowsocks.com都是很好的方案。关于hosts方案，请前往这个项目DeShell 
+Q: 软件开发难么，怎么才能成为一个精英？ 软件开发看起来高大上外加一些神秘，但实际上和普通工种并无太大区别。
+我肤浅的认为兴趣至关重要，但实际上也发现了某些为了生计并不喜欢这行的，也做得风生水起，怎么说呢，只要有心，
+都能成才，难不难并不重要，看你想要什么。至于怎么成为一个软件精英，这个问题交给谷歌！ 
+Q: 站长你哪里人、几岁了、在哪里工作、你们前台漂亮吗、你有我帅吗？ 
+A: 首先，我没你帅；其次，我跟你熟吗 ：） 好了，暂时更新这些，需要什么底部开个腔……","keywords":"help，qa，
+帮助中心，站内帮助"},
+{"title":"重量级嘉宾推荐",
+"date":"2017-02-07T05:22:22.000Z",
+"updated":"2017-04-18T07:04:53.000Z",
+"comments":false,
+"path":"links/index.html",
+"permalink":"http://blog.choong.net/links/index.html",
+"excerpt":"",
+"text":"以下摘录有趣、有意义、有影响力、有正能量的博客、资源这里并不打算作为网址大全，
+因此不接受以SEO为目的的友情链接。以下排序不分那啥，也不能覆盖所有方向，如果忽略了大师站，
+请原谅鄙人孤陋寡闻 鸡爱死大法系 阮一峰博客闲情写手腾讯AlloyTeam 苹果大法系 
+喵大人博客Objc.ioSwifter 娱乐系 VIMCodeTank 扯淡系 
+没有链接，请直接关注微信公众号：小道消息、MacTalk等等",
+"keywords":null},
+{"title":"标签云",
+"date":"2017-02-04T07:37:12.000Z",
+"updated":"2017-04-18T07:05:18.000Z",
+"comments":true,"path":"tags/index.html",
+"permalink":"http://blog.choong.net/tags/index.html",
+"excerpt":"","text":""},
+{"title":"媒体资源？嗯，就叫这个吧...",
+"date":"2017-03-18T11:56:26.000Z",
+"updated":"2017-04-18T07:05:34.000Z",
+"comments":false,"path":"video/index.html",
+"permalink":"http://blog.choong.net/video/index.html",
+"excerpt":"",
+"text":"片儿总会有的，我尽量快点补上你们喜欢的，不要急…",
+"keywords":"视频，录像，视频教程，说IT视频"},
+{"title":"时光轴",
+"date":"2017-02-07T05:23:27.000Z",
+"updated":"2017-04-18T07:05:25.000Z",
+"comments":false,"path":"timeline/index.html",
+"permalink":"http://blog.choong.net/timeline/index.html",
+"excerpt":"",
+"text":"时光轴嘛，得先有时光，会更新的，别急……",
+"keywords":null}],
+"posts":[{"title":"怎样创造一个App",
+"slug":"how-to-create-a-new-app",
+"date":"2017-04-23T13:58:24.000Z",
+"updated":"2017-04-24T09:11:17.000Z",
+"comments":true,
+"path":"design/how-to-create-a-new-app.html",
+"link":"",
+"permalink":"http://blog.choong.net/design/how-to-create-a-new-app.html",
+"excerpt":"",
+"text":"暂时没有更多内容，不过本文不是标题党永远相信美好的事情即将发生",
+"categories":[{"name":"设计",
+"slug":"design",
+"permalink":"http://blog.choong.net/categories/design/"}],
+"tags":[{"name":"sketch","slug":"sketch",
+"permalink":"http://blog.choong.net/tags/sketch/"},
+{"name":"zeplin","slug":"zeplin",
+"permalink":"http://blog.choong.net/tags/zeplin/"}],
+"keywords":[{"name":"设计","slug":"design",
+"permalink":"http://blog.choong.net/categories/design/"}]},
+{"title":"开始使用Swift语言开发后台",
+"slug":"use-swiftlang-in-server-side",
+"date":"2017-04-22T08:57:44.000Z",
+"updated":"2017-04-24T09:12:29.000Z",
+"comments":true,
+"path":"server-side/use-swiftlang-in-server-side.html",
+"link":"","permalink":"https://shuoit.net/server-side/use-swiftlang-in-server-side.html",
+"excerpt":"",
+"text":"暂时没有更多内容，不过本文不是标题党Swift真的可以作为后台开发语言",
+"categories":[{"name":"后台","slug":"server-side",
+"permalink":"http://blog.choong.net/categories/server-side/"}],
+"tags":[{"name":"swift","slug":"swift",
+"permalink":"http://blog.choong.net/tags/swift/"},{"name":"后台","slug":"serverSide",
+"permalink":"http://blog.choong.net/tags/serverSide/"}],
+"keywords":[{"name":"后台",
+"slug":"server-side",
+"permalink":"http://blog.choong.net/categories/server-side/"}]},
+{"title":"JSimple主题用户指南","slug":"the-user-manual-of-jsimple",
+"date":"2017-04-18T01:49:58.000Z",
+"updated":"2017-04-24T08:45:09.000Z",
+"comments":true,
+"path":"resource/the-user-manual-of-jsimple.html",
+"link":"",
+"permalink":"http://blog.choong.net/resource/the-user-manual-of-jsimple.html",
+"excerpt":"",
+"text":"本文将持续跟进主题更新，除了Github的文档，就这里更详细了，有错误发现和建议可以直接提在本文后头 
+任何的软件作品，不论是成品还是半成品，提供一份易懂的说明还是很重要也非常有必要的。在这件事情上，我很抱歉！
+因为主题制作过程本来断断续续，开始我也只是想弄个主题供自己用，后来发到Github和hexo官方，发现还是有不少朋友喜欢，
+在此一并感谢。最近Github反馈的问题很频繁，所以写个文档显得更为迫切和有必要 主题概况大概介绍下，主题的统计用的CNZZ，
+评论组件用的Disqus，搜索是Google InsightSearch，大致风格是简书网的前身。对于统计和评论，你可以直接改主题的对应文件，
+替换就好了，只是考虑到统计和评论信息为私有信息，因此把那两项配置放到了站点配置文件中，如果你为此感到难受，请自己放到主题
+配置文件里就好。多余的不用纠结。 当你下载了这份主题，改好站点配置后，第一个工作不应该是hexo g或hexo s运行演示，因为这样
+你一定会遇到错误，要完整的运行，你需要手动配置如下项目： 1、写作模板文件配置在scaffolds文件夹下，
+保留两个文件即可：post.md和page.md，他们分别表示普通文章和独立页面 post模板内容如下 
+title: &#123;&#123; title &#125;&#125;date: &#123;&#123; date &#125;&#125;
+author: 乐哥
+avatar: /images/favicon.png
+authorLink: http://choong.net
+authorAbout: http://about.choong.net
+authorDesc: 一个写代码的「伪文青」
+categories: 技术
+tags: - 技术- 还是技术
+keywords: description: photos: - img/2017/demo.jpg
+--- 如果新建的文章要归属于某个分类，请在categories处对应你的分类名称即可。
+标签使用同理，一篇文章可以有多个标签，打标签的方式就是写成数组方式。
+photos是缩略图，地址可以是相对的，也可以是绝对的。 
+page模板同上，但没有categories和tags，多了comments，
+后者用来控制独立页是否支持评论组件。至于要把作者的信息放到模板里，
+是考虑到如果网站采用投稿方式，可以保留原创信息。即：显示不同作者不同文章信息，不会乱！ 
+2、站点分类别名和自定义URL配置关于自定义URL，请参考这篇文章：在hexo博客中打造相对完美的URL 
+分类别名和标签别名配置，站点_config.yml文件中，其中主题配置文件里的menu项需要和category_map键值对一致。
+二者顺序可以不同，但是主题中的顺序决定网站导航栏菜单的顺序。 # Category &amp; Tagdefault_category: 技术
+category_map: 技术: tech 人文: humanitytag_map: hexo: hexo 生活: life 3、到这里，新建的文章写好，就能预览了",
+"categories":[{"name":"资源",
+"slug":"resource",
+"permalink":"http://blog.choong.net/categories/resource/"}],
+"tags":[{"name":"hexo",
+"slug":"hexo",
+"permalink":"http://blog.choong.net/tags/hexo/"},
+{"name":"网站",
+"slug":"website",
+"permalink":"http://blog.choong.net/tags/website/"}],
+"keywords":[{"name":"资源",
+"slug":"resource",
+"permalink":"http://blog.choong.net/categories/resource/"}]},
+{"title":"macOS系统下超赞的绿软分享","slug":"free-mac-usefull-tools",
+"date":"2017-01-07T15:51:23.000Z","updated":"2017-06-23T05:39:03.000Z",
+"comments":true,
+"path":"resource/free-mac-usefull-tools.html",
+"link":"",
+"permalink":"http://blog.choong.net/resource/free-mac-usefull-tools.html",
+"excerpt":"","text":"以下分享部分为谷歌云端硬盘，所以麻烦自搭梯子Top1飞跃长城请移尊驾 Top2mac系统清理和维护大师，
+是真大师CleanMyMac Top3抓包王：CharlesCharles Top final终极必杀技，其实很多软件我都是在这里找的，资源直接分享，
+多写无用，麻烦自提ShareFreeAll",
+"categories":[{"name":"资源",
+"slug":"resource",
+"permalink":"http://blog.choong.net/categories/resource/"}],
+"tags":[{"name":"Mac必备工具",
+"slug":"MacTools",
+"permalink":"http://blog.choong.net/tags/MacTools/"}],
+"keywords":[{"name":"资源",
+"slug":"resource",
+"permalink":"http://blog.choong.net/categories/resource/"}]},
+{"title":"在hexo博客中打造相对完美的URL","slug":"build-perfect-url-in-hexo",
+"date":"2017-01-07T14:54:05.000Z",
+"updated":"2017-04-24T08:45:09.000Z",
+"comments":true,"path":"big-front-end/build-perfect-url-in-hexo.html",
+"link":"",
+"permalink":"http://blog.choong.net/big-front-end/build-perfect-url-in-hexo.html",
+"excerpt":"",
+"text":"这里讨论一个处女座的情怀问题如果你是全部用英文写作，那么这篇文章对你确实没什么Luan用。
+对hexo而言，我们可以很轻松的自定义文章URL。 
+对数字敏感，你可以在站点的_config.yml文件中permalink处配置成:year/:month/:day/:title/。
+是的，这个不需要改动，保持hexo默认就是 结果是：http://localhost:4000/2017/04/18/demo 
+有静态网页情结的你，认为.html结尾利于SEO，则可以把permalink配置成:category/:title.html或:category/:timestamp.html 
+结果是：http://localhost:4000/demo/1492523268.html 注意第二种使用分类别名，请一定要设置两个地方： 
+// 1、站点的_config.yml中找到以下部分# Category &amp; 
+Tagdefault_category: uncategorizedcategory_map: 演示: demotag_map:
+// 2、scaffolds/post.md文件中改成如下
+--- title: &#123;&#123; title &#125;&#125; date: &#123;&#123; date &#125;&#125;tags: timestamp: &#123;&#123;
+date &#125;&#125; categories: 演示--- 是的，增加了两行，在写文章时，通过hexo n demo后，生成的demo.md文件里如下： 
+--- title: hellocategories: 演示date: 2017-04-18 22:19:45timestamp: 1447295415tags:
+--- 此时需要手动的把timestamp手动改成时间戳，因为这是你自定义的变量，当前hexo还没有这个系统变量使用，所以只能手动配置。 
+通过以上方式体现的URL更有意义，但是用title或timestamp面临两个问题，前者遇到中文就呵呵了，后者虽精炼但无疑义。
+所以还有改进的空间，即使用permalink: :category/:title.html这样配置时，创建文章用英文标题。
+这样解决了中文一坨乱码且意义很明显，读者一看就知道这是哪个分类下的什么文章！ 是不是很美好，赶紧试试去吧~",
+"categories":[{"name":"前端",
+"slug":"big-front-end",
+"permalink":"http://blog.choong.net/categories/big-front-end/"}],
+"tags":[{"name":"hexo",
+"slug":"hexo",
+"permalink":"http://blog.choong.net/tags/hexo/"},
+{"name":"网站","slug":"website",
+"permalink":"http://blog.choong.net/tags/website/"}],
+"keywords":[{"name":"前端",
+"slug":"big-front-end",
+"permalink":"http://blog.choong.net/categories/big-front-end/"}]}]}
